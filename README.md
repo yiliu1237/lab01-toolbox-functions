@@ -34,9 +34,3 @@ Link: https://www.shadertoy.com/view/43fyDH
 5. Spinning Flower (with a cool pattern)
 
 Link: https://www.shadertoy.com/view/43XcDH
-
-# Submission
-- Create a pull request to this repository
-- In the README, include the names of both your team members
-- In the README, create a link to your shader toy solutions for these three prompts
-- Make sure all three of your shadertoys are set to UNLISTED or PUBLIC (so we can see them!)
