@@ -3,10 +3,6 @@
 # Team 
 Neha Thumu and Yi Liu 
 
-# Setup 
-
-Create a [Shadertoy account](https://www.shadertoy.com/). Either fork this shadertoy, or create a new shadertoy and copy the code from the [Flower Puzzle](https://www.shadertoy.com/view/NsVBzy).
-
 # Our Shaders!
 
 1. Pulsing Flower
