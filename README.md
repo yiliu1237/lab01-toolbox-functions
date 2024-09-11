@@ -31,7 +31,9 @@ We created this using two overlapping sine waves and multiplied another sine wav
 
 Link: https://www.shadertoy.com/view/43fyDH
 
-5. /
+5. Spinning Flower (with a cool pattern)
+
+Link: https://www.shadertoy.com/view/43XcDH
 
 # Submission
 - Create a pull request to this repository
