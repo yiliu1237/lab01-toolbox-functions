@@ -19,9 +19,12 @@ We created this using a sine wave where the amplitude changed based on time.
 
 
 2. Pulsing Flower (Brownie Points)
+
 <p align="center">
   <img src="https://github.com/yiliu1237/lab01-toolbox-functions/blob/main/SpinningFlowerColorChange.gif?raw=true"/>
 </p>
+
+Link: https://www.shadertoy.com/view/M3fyDH
 
 Use alpha blending to adjust the color of the flower from the center based on the distance of points from the center.
 
