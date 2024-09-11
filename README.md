@@ -27,6 +27,12 @@ Link: https://www.shadertoy.com/view/4XfcWH
 
 We created this using two overlapping sine waves and multiplied another sine wave to them. We also changed the colors to make it more magical. 
 
+4. Pulse (with a fun color pattern)
+
+Link: https://www.shadertoy.com/view/43fyDH
+
+5. /
+
 # Submission
 - Create a pull request to this repository
 - In the README, include the names of both your team members
